@@ -5,7 +5,7 @@ It’s dedicated to all the people, communities, and resources that helped me le
 
 ---
 
-## 📑 Table of Contents
+## ⭐ Highlights
 - [People](#-people)
 - [Communities](#-communities)
 - [Resources](#-resources)
