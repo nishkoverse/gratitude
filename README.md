@@ -1,42 +1,8 @@
-# 🙏 Gratitude
+<h1 align="center">🙇‍♂️ GRATITUDE</h1>
+This repo is a small but sincere attempt to express my gratitude to everyone who has contributed to my learning, growth, and journey so far. It’s dedicated to the people, communities, and resources that have shaped how I think, build, and keep moving forward.
 
-This page is my way of saying **thank you**.  
-It’s dedicated to all the people, communities, and resources that helped me learn, grow, and keep moving forward.  
+<h2>🌟 People</h2>
+<h2>🌍 Communities</h2>
+<h2>📚 Resources</h2>
 
----
-
-## ⭐ Highlights
-- [People](#-people)
-- [Communities](#-communities)
-- [Resources](#-resources)
-- [Friends & Mentors](#-friends--mentors)
-- [Final Note](#-final-note)
-
----
-
-## 👩‍🏫 People
-> The individuals whose work, words, or example inspired me to stay curious and keep learning.
-
----
-
-## 🌍 Communities
-> Open, generous communities that share knowledge and encourage collaboration.
-
----
-
-## 📚 Resources
-> Tools, platforms, and references that made learning more accessible.
-
-### 🧭 Google
-1. [Google Style Guides](https://google.github.io/styleguide/) — For writing clean, consistent, and high-quality code across languages.
-
----
-
-## 🧑‍🤝‍🧑 Friends & Mentors
-> To the friends, mentors, and peers who offered guidance, feedback, or even a few words of encouragement when I needed it most — thank you.
-
----
-
-## 🌟 Final Note
-> Gratitude turns experiences into growth and challenges into opportunities.  
-> Thank you to everyone and everything that continues to shape this journey.
+- [Josean Martinez](https://github.com/josean-dev) - His Linux terminal setup guides inspired my shift from VS Code to Neovim, improving my productivity significantly (≈10x).
